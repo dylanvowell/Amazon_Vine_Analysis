@@ -1,5 +1,5 @@
 # Overview
-This analysis was to determine whether or not the 5 star reviews submitted through the Vine programmed were positively biased compared to reviews made outside of the vine program. 
+This analysis was to determine whether or not the 5 star reviews submitted through the Vine program were positively biased compared to reviews made outside of the vine program. 
 
 ## Results
 ![results screenshot](https://github.com/dylanvowell/Amazon_Vine_Analysis/blob/main/Screenshot%202022-04-14%20140036.png?raw=true)
