@@ -1,6 +1,12 @@
 # Overview
 This analysis was to determine whether or not the 5 star reviews submitted through the Vine program were positively biased compared to reviews made outside of the vine program. 
 
+## Process
+- Created Amazon RDS Database with tables in pgAdmin and extracted an Amazon review dataset into a dataframe. 
+- Transformed dataframe into four separate dataframes that mached the table schema in pgAdmin. 
+- Uploaded data into appropriate tables and ran queries in pgAdmin to explore data. 
+- Used Pandas to determine if there was any bias towards reviews that were written as part of the Vine Program. 
+
 ## Results
 ![results screenshot](https://github.com/dylanvowell/Amazon_Vine_Analysis/blob/main/Screenshot%202022-04-14%20140036.png?raw=true)
 - There were a total of 94 vine reviews and 40,471 non-paid reviews tallied
